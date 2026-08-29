@@ -11213,6 +11213,26 @@ section.resume-section .resume-section-content {
   min-height: 2.5rem;
 }
 
+.profile-quote {
+    margin: 0 0 2rem 0;
+    padding-left: 1rem;
+    border-left: 4px solid #168579;
+}
+
+.quote-text {
+    font-size: 1.15rem;
+    font-style: italic;
+    font-weight: 600;
+    color: #263547;
+    margin-bottom: 0.4rem;
+}
+
+.quote-description {
+    font-size: 0.95rem;
+    color: #6c757d;
+    line-height: 1.6;
+}
+
 .skill-card li {
   padding: 0.5rem 0;
   border-bottom: 1px solid rgba(216, 226, 234, 0.85);

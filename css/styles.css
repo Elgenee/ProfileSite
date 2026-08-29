@@ -11215,8 +11215,8 @@ section.resume-section .resume-section-content {
 
 .profile-quote {
     margin: 0 0 2rem 0;
-    padding-left: 1rem;
-    border-left: 4px solid #168579;
+    padding-left: 0;
+    border-left: none;
 }
 
 .quote-text {
